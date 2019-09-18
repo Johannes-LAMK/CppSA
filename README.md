@@ -1,0 +1,2 @@
+# CppSA
+C++ inner classes
